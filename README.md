@@ -10,6 +10,11 @@ Here are some others:
   website][website].
 * [My blog][blog] is another example which includes a custom layout.
 
+## OK, let's see it!
+
+This project was deployed using incise's built-in git-branch deployment
+workflow. This *deployed* site can be found [here][example-website].
+
 ## Usage
 
 To start the development server:
@@ -33,3 +38,4 @@ Hocevar. See the COPYING file for more details.
 [proj]: https://github.com/RyanMcG/incise
 [website]: http://www.ryanmcg.com/incise/
 [blog]: http://www.ryanmcg.com/
+[example-website]: http://www.ryanmcg.com/incise-example-project/
