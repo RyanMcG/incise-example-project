@@ -1,6 +1,4 @@
 {:site-title "Example project"
  :author "Mark Flippin' Twain"
- :in-dir "content"
- :out-dir "public"
  :uri-root "incise-example-project"
  :deploy {:workflow :git-branch}}
